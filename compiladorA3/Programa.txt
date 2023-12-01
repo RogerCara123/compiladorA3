@@ -21,7 +21,6 @@ inicio[
 		imprima b; ]
 
 	
-	imprima decimal;
 	
 	enquanto decimal < variavel [
 		imprima variavel; 
