@@ -1,0 +1,13 @@
+inicio[
+	inteiro abc;
+	flutuante decimal;
+	caracter texto;
+	inteiro abc;
+	decimal = 1.5;
+	
+	se decimal == 1.5  entao [ 
+		leia a;
+		imprima a; ]
+
+	
+]fim

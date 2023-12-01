@@ -1,0 +1,29 @@
+inicio[
+	inteiro variavel;
+	flutuante decimal;
+	caracter texto;
+	
+	
+	variavel = 2
+
+	para ( variavel = 1 ; variavel < 10 ; variavel + 1 ) [ 
+		leia entrada;
+		imprima entrada; ]
+	
+	decimal = 1.5
+	
+	se decimal == 1.5  entao [ 
+		leia a;
+		imprima a; ]
+
+	senao [
+		leia b;
+		imprima b; ]
+
+	
+	imprima decimal;
+	
+	enquanto decimal < variavel [
+		imprima variavel; 
+				]
+]fim
